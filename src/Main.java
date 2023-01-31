@@ -93,5 +93,6 @@ public class Main {
         System.out.println(employees);
         var workingHours2 = employees * staffHours;
         System.out.println("Если в компании работает " + employees + " человек, то всего " + workingHours2 + " часов работы может быть поделено между сотрудниками");
+
     }
 }
